@@ -5,7 +5,8 @@
 
 <br>
 
-## <b>Requisitos:</b>
+## 
+<b>Requisitos:</b>
 
 :exclamation:	Deve funcionar apenas com letras minúsculas;
 
@@ -14,7 +15,7 @@
 :exclamation:	Deve ser possível criptogragar e descriptografar uma palavra ou um texto e vice-versa.
 
 <div>
-<img src="https://user-images.githubusercontent.com/101907330/184256178-0391199f-790e-4eb0-a168-fe7b98031a4e.png" width="300px" />
+  <img src="https://user-images.githubusercontent.com/101907330/184256178-0391199f-790e-4eb0-a168-fe7b98031a4e.png" width="300px" />
 </div>
 
 ➡️ Evolução e atualizações:
