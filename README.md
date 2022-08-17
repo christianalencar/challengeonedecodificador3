@@ -14,10 +14,12 @@
 
 :exclamation:	Deve ser possível criptogragar e descriptografar uma palavra ou um texto e vice-versa.
 
-<div>
-  <img src="https://user-images.githubusercontent.com/101907330/184256178-0391199f-790e-4eb0-a168-fe7b98031a4e.png" width="300px" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101907330/184256178-0391199f-790e-4eb0-a168-fe7b98031a4e.png" width="200px" />
+</p>
+
 
 ➡️ Evolução e atualizações:
 <p> 07/08/2022 - Subida da primeira versão de layout e do código; </p>
-<p> 12/08/2022 - Review do READM.md e acrecimo do badge de conclusão.
+<p> 12/08/2022 - Review do READM.md e acrecimo do badge de conclusão; </p>
+<p> 16/08/2022 - Correção de linhas de código e ajuste de imagem / Alinhamento da GitPage. </p>
