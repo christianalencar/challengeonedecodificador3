@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     border: 0;
@@ -6,21 +6,18 @@
 }
 
 body {
-    background: #F3F5FC;
+    background-image: #FFFFFF;
 }
 
 .logo {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: row;
     padding: 0px;
-    gap: 40px;
-
     position: absolute;
-    width: 60px;
-    height: 10px;
-    left: 40px;
-    top: 40px;
+    width: 50px;
+    height: 50px;
+    left: -150px;
+    top: 0px;
 }
 
 .decodificador {
@@ -29,7 +26,7 @@ body {
     height: 288px;
     left: 240px;
     top: 168px;
-}
+   }
 
 #entrada-texto1 {
     font-weight: flex;
@@ -44,8 +41,9 @@ body {
 
 }
 
+/* Texto do box */
 #entrada-texto1::placeholder {
-    color: #0A3871;
+    color: #000000;
 }
 
 #botoes {
@@ -62,6 +60,7 @@ body {
     top: 490px;
 }
 
+/* Botão de criptografia */
 #criptografar {
     background: #0A3871;
     border-radius: 24px;
@@ -80,12 +79,11 @@ body {
 
 #copiar {
     position: absolute;
-
     top: 450px;
     left: 40px;
     width: 228px;
     height: 67px;
-    color: #0A3871;
+    color: #000000;
     border: 1px solid #000000;
     border-radius: 24px;
     background-color: #fff;
@@ -94,29 +92,31 @@ body {
 
 #resultado {
     position: absolute;
-    width: 310px;
-    height: 540px;
-    left: 1000px;
+    width: 300px;
+    height: 900px;
+    left: 950px;
     top: 40px;
     background: #FFFFFF;
     box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
     border-radius: 32px;
+    border-color: #000000;
 }
 
 #resultado img {
     position: absolute;
-    width: 250px;
-    left: 20px;
-    top: 80px;
+    width: 218px;
+    left: 52px;
+    top: 101px;
     z-index: 1;
+    height: 168px;
 }
 
 #resultado h3 {
     font-family: 'Inter';
     font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 120%;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
     text-align: center;
     position: absolute;
     top: 320px;
@@ -147,12 +147,12 @@ body {
     outline: none;
 }
 
-footer{
-    position: fixed;
-    bottom: 0;
-    background-color: #647891;
-    width: 100vw;
-    padding: 15px 15px;
-    text-align: center;
-    color: #FFFFFF;
+footer {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 100%;
+    text-align: left;
+    left: 20px;
+    color: #000000;  
 }
