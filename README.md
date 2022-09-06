@@ -12,7 +12,7 @@
 
 :exclamation:	Não devem ser utilizados letras com acentos nem caracteres especiais;
 
-:exclamation:	Deve ser possível criptogragar e descriptografar uma palavra ou um texto e vice-versa.
+:exclamation:	Deve ser possível criptografar e descriptografar uma palavra ou um texto e vice-versa.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/101907330/184256178-0391199f-790e-4eb0-a168-fe7b98031a4e.png" width="200px" />
